@@ -6,7 +6,6 @@ consignment-pricing-ml/
 │   └── consignment_pricing.ipynb      # Jupyter Notebook
 ├── models/
 │   └── random_forest.pkl              # Trained Random Forest model
-│   └── xgboost.pkl                    # Trained XGBoost model
 ├── requirements.txt                   # Dependencies for the project
 ├── README.md                          # Project documentation
 ├── LICENSE                            # Project license
