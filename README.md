@@ -60,17 +60,6 @@ Key factors influencing pricing:
 2.Distance of delivery
 3.Mode of transportation
 4.Urgency of the shipment
-# Folder Structure
-consignment-pricing-ml/
-│
-├── data/
-│   └── Consignment_pricing_raw.csv    # Dataset
-├── notebooks/
-│   └── consignment_pricing.ipynb      # Jupyter Notebook
-├── models/
-│   └── random_forest.pkl              # Trained Random Forest model
-├── README.md                          # Project Documentation
-├── requirements.txt                   # Required Python libraries
 # Contact
 For any inquiries or issues, feel free to contact:
 
