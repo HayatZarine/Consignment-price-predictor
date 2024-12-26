@@ -69,7 +69,6 @@ consignment-pricing-ml/
 │   └── consignment_pricing.ipynb      # Jupyter Notebook
 ├── models/
 │   └── random_forest.pkl              # Trained Random Forest model
-│   └── xgboost.pkl                    # Trained XGBoost model
 ├── README.md                          # Project Documentation
 ├── requirements.txt                   # Required Python libraries
 # Contact
