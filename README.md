@@ -40,8 +40,44 @@ Identified key features contributing to consignment pricing.
 Requirements
 Python 3.8 or higher
 Required libraries:
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
+1.pandas
+2.numpy
+3.matplotlib
+4.seaborn
+5.scikit-learn
+# Installation
+1. Clone this repository:
+   git clone https://github.com/hayatzarine/consignment-pricing-ml.git
+cd consignment-pricing-ml
+2. Install the required libraries:
+   pip install -r requirements.txt
+*Running the Code*
+1.Open the Jupyter Notebook (consignment_pricing.ipynb) in your preferred environment.
+2.Execute the cells step-by-step to preprocess the data, train models, and evaluate their performance.
+# Feature Importance
+Key factors influencing pricing:
+1.Weight of the consignment
+2.Distance of delivery
+3.Mode of transportation
+4.Urgency of the shipment
+# Folder Structure
+consignment-pricing-ml/
+│
+├── data/
+│   └── Consignment_pricing_raw.csv    # Dataset
+├── notebooks/
+│   └── consignment_pricing.ipynb      # Jupyter Notebook
+├── models/
+│   └── random_forest.pkl              # Trained Random Forest model
+│   └── xgboost.pkl                    # Trained XGBoost model
+├── README.md                          # Project Documentation
+├── requirements.txt                   # Required Python libraries
+# Contact
+For any inquiries or issues, feel free to contact:
+
+Name: HayatZarine
+Email: hayatzarine@gmail.com 
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+
